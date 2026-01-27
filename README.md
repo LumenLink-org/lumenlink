@@ -27,7 +27,7 @@ LumenLink combines multi-transport agility, unblockable discovery channels, high
 
 ```bash
 # Clone the repository
-git clone https://github.com/unitech-for-good/lumenlink.git
+git clone https://github.com/LumenLink-org/lumenlink.git
 cd lumenlink
 
 # Set up development environment
@@ -39,9 +39,22 @@ cd lumenlink
 
 ### For Users
 
-- **Android**: Download APK from [Releases](https://github.com/unitech-for-good/lumenlink/releases)
+- **Android**: Download APK from [Releases](https://github.com/LumenLink-org/lumenlink/releases)
 - **iOS**: Available via TestFlight (coming soon)
-- **Desktop**: Download binaries from [Releases](https://github.com/unitech-for-good/lumenlink/releases)
+- **Desktop**: Download binaries from [Releases](https://github.com/LumenLink-org/lumenlink/releases)
+
+---
+
+## 📦 Source Repositories
+
+These are the repos that will likely be of primary interest:
+
+| Repo | Description |
+|------|-------------|
+| [LumenLink-org/lumenlink](https://github.com/LumenLink-org/lumenlink) | Main monorepo with core library, server, and web frontend |
+| [LumenLink-org/lumenlink-backend](https://github.com/LumenLink-org/lumenlink-backend) | Backend server (Go API, Prometheus, Docker) |
+| [LumenLink-org/lumenlink-android](https://github.com/LumenLink-org/lumenlink-android) | Android application |
+| [LumenLink-org/lumenlink-ios](https://github.com/LumenLink-org/lumenlink-ios) | iOS VPN application |
 
 ---
 
@@ -146,7 +159,7 @@ This software may not be used by entities that engage in systematic human rights
 - **General**: info@lumenlink.org
 - **Security**: security@lumenlink.org
 - **Press**: press@lumenlink.org
-- **Community**: [GitHub Discussions](https://github.com/unitech-for-good/lumenlink/discussions)
+- **Community**: [GitHub Discussions](https://github.com/LumenLink-org/lumenlink/discussions)
 - **Matrix**: `#lumenlink:matrix.org`
 
 ---
@@ -186,7 +199,7 @@ Made with ❤️ by the global community
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org/)
 [![Go](https://img.shields.io/badge/Go-1.21+-blue.svg)](https://go.dev/)
-[![CI](https://github.com/unitech-for-good/lumenlink/workflows/CI/badge.svg)](https://github.com/unitech-for-good/lumenlink/actions)
-[![Security Scan](https://github.com/unitech-for-good/lumenlink/workflows/Security%20Scan/badge.svg)](https://github.com/unitech-for-good/lumenlink/actions)
+[![CI](https://github.com/LumenLink-org/lumenlink/workflows/CI/badge.svg)](https://github.com/LumenLink-org/lumenlink/actions)
+[![Security Scan](https://github.com/LumenLink-org/lumenlink/workflows/Security%20Scan/badge.svg)](https://github.com/LumenLink-org/lumenlink/actions)
 
 </div>
